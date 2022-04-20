@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OdooMobile</string>
+    <string name="text_attention">Ведите адрес сайта</string>
+    <string name="hintEdit">youre url</string>
+    <string name="swsu_info">Политех инфо</string>
+    <string name="swsu_do">Политех до</string>
+</resources>
